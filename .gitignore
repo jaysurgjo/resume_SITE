@@ -1,3 +1,9 @@
+# Ignore changes to the settings.json file for vscode
+settings.json
+
+# Added ds_store to ignore file
+.DS_Store
+
 # Logs
 logs
 *.log
